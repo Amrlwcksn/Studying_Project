@@ -1,0 +1,3 @@
+C:/Users/ASUS/Documents/Amrlwcksn/Perkuliahan/SMT 1/Algoritma Pemrograman/Tugas/Struc/C++Tugas/Struct_toko_komputer/cmake-build-debug/CMakeFiles/Struct_toko_komputer.dir
+C:/Users/ASUS/Documents/Amrlwcksn/Perkuliahan/SMT 1/Algoritma Pemrograman/Tugas/Struc/C++Tugas/Struct_toko_komputer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Documents/Amrlwcksn/Perkuliahan/SMT 1/Algoritma Pemrograman/Tugas/Struc/C++Tugas/Struct_toko_komputer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
